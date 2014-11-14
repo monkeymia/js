@@ -1,0 +1,35 @@
+[
+    { "table" : "General"
+    , "columns" : 
+        [ { "name" : "doc"
+          , "type" : "INT"
+          , "doc"  : "user visible documentation."
+          }
+        , { "name" : "test1"
+          , "type" : "VARCHAR(255)"
+          , "doc"  : "user visible documentation."
+          }
+        , { "name" : "test2"
+          , "type" : "VARCHAR(255)"
+          , "doc"  : "user visible documentation."
+          }
+        ]
+    }
+,   { "table" : "Parents"
+    , "columns" : 
+        [ { "name" : "foo_doc"
+          , "type" : "INT"
+          , "doc"  : "user visible documentation."
+          }
+        , { "name" : "foo1"
+          , "type" : "VARCHAR(255)"
+          , "doc"  : "user visible documentation."
+          }
+        , { "name" : "foo2"
+          , "type" : "VARCHAR(255)"
+          , "doc"  : "user visible documentation."
+          }
+        ]
+    }
+]
+
